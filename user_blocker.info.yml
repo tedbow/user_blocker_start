@@ -1,0 +1,5 @@
+name: User Blocker
+type: module
+description: Allows users to block other users
+core: 8.x
+package: Six Mile Tech
