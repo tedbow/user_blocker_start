@@ -35,10 +35,6 @@ class BlockerForm extends FormBase {
       '#maxlength' => 64,
       '#size' => 64,
     );
-    $form['submit'] = array(
-      '#type' => 'submit',
-      '#title' => $this->t('Block User'),
-    );
 
     return $form;
   }
