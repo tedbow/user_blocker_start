@@ -1,0 +1,4 @@
+
+block users:
+  title: 'Block Users'
+  description: 'Allows users to block other users.'
